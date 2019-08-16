@@ -1,20 +1,17 @@
-# CakePHP AdminLTE Theme (1.1.0)
+# CakePHP AdminLTE Theme (1.1.0) with RTL Support (ARABIC AdminLTE)
+# تعريب لوحة القيادة AdminLTE
 
-**What's the news**
 
-The AdminLTE was updated version to 2.4.5.
 
-The CakePHP was updated version compatible to 3.7.0.
+### للتحميل والتثبيت
 
-This release 1.1.0 is can be considered the stable version, as indicated in the [SemVer.org](https://semver.org/) recommendations.
-
-### Installation
-
-You can install using [composer](http://getcomposer.org).
+لتحميل عميل الملحن: [composer](http://getcomposer.org).
 
 ```
 composer require maiconpinto/cakephp-adminlte-theme
 ```
+
+**النص الأصلي لكيفية التثبيت في المكتبة البرمجية CAKEPHP 3**
 
 ### Enable Plugin
 
