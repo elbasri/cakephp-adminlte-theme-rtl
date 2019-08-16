@@ -7,8 +7,10 @@
 
 لتحميل عميل الملحن: [composer](http://getcomposer.org).
 
+أمر التحميل
+
 ```
-composer require maiconpinto/cakephp-adminlte-theme
+composer require nacer/cakephp-adminlte-rtl
 ```
 
 **النص الأصلي لكيفية التثبيت في المكتبة البرمجية CAKEPHP 3**
